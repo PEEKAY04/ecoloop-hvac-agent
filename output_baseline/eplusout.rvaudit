@@ -1,0 +1,16 @@
+ ReadVarsESO
+ processing:models\baseline.rvi
+ input file:output_baseline\eplusout.eso
+ output file:output_baseline\eplusout.csv
+ getting all vars from:output_baseline\eplusout.eso
+  number variables requested for output=          73
+ ReadVars Run Time=00hr 00min  0.23sec
+ ReadVarsESO program completed successfully.
+ ReadVarsESO
+ processing:models\baseline.mvi
+ input file:output_baseline\eplusout.mtr
+ output file:output_baseline\eplusmtr.csv
+ getting all vars from:output_baseline\eplusout.mtr
+  number variables requested for output=          20
+ ReadVars Run Time=00hr 00min  0.05sec
+ ReadVarsESO program completed successfully.
